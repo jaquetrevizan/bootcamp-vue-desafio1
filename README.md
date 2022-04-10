@@ -1,4 +1,4 @@
-# Bootcamp Vue.JS Desafio1 | Cálculo do IMC (índice de massa corpórea)
+# Bootcamp Vue.JS Desafio1 | Cálculo do IMC
 
 ## Project setup
 
